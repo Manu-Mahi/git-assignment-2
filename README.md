@@ -4,6 +4,7 @@
 2. Then, open VSCode, open a terminal, and clone the fork you just made
 3. Then, run: cd git-assignment-2
 4. Then, open the folder git-assignment-2 in VSCode
+5. Open the README.md file, which is this file, you will edit this on VSCode
 
 ## Part 1 (Branch then merging within your fork)
 1. First, you will make a branch named writing
