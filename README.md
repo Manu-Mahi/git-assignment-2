@@ -38,7 +38,7 @@ git push
 6. On GitHub, open a pull request **within your fork**:
 - From: `writing`
 - To: `main`
-- Make sure you are **not** pull requesting upstream (my repository).  
+- Make sure you are **not** pull-requesting upstream (my repository).  
   My username should not appear anywhere in the pull request.
 - It should look like: `main <- writing`
 
